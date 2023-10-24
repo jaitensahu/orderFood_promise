@@ -1,9 +1,9 @@
 let itemsImage = {
   Burger:
-    "https://www.thecookierookie.com/wp-content/uploads/2023/04/featured-stovetop-burgers-recipe.jpg",
+    "https://i.pinimg.com/originals/95/aa/34/95aa34722ae9ea7e8faa874e5d24ebab.png",
   Fries:
-    "https://www.recipetineats.com/wp-content/uploads/2022/09/Fries-with-rosemary-salt_1.jpg",
-  Coldrinks: "https://cdn.cdnparenting.com/articles/2018/07/361921454-H.jpg",
+    "https://static.vecteezy.com/system/resources/previews/013/442/145/original/crispy-and-delicious-french-fries-free-png.png",
+  Coldrinks: "https://png.pngtree.com/png-clipart/20230414/original/pngtree-summer-cola-cold-drink-png-image_9057065.png",
 };
 
 let btn = document.querySelector("button");
